@@ -1,0 +1,24 @@
+# Generated files
+lex.yy.c
+grammar.tab.c
+grammar.tab.h
+
+# Executables
+amci
+amci.exe
+
+# Build artifacts
+*.o
+*.obj
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
